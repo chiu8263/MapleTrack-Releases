@@ -4,7 +4,7 @@ MapleTrack 是 MapleStory Worlds 的經驗值效率追蹤工具。
 
 ## 下載
 
-- [Windows 版本](https://drive.google.com/file/d/17efLCbSaKgTJYZR1Wpa_iHRtMTUk_hSw/view?usp=share_link)
+- [Windows 版本](https://drive.google.com/file/d/1Q0KGCewqcO8O1p-HlGTrrtoGsZzcKB8T/view?usp=share_link)
 - [macOS 版本](https://drive.google.com/file/d/1pjyiyBD_k3SyRK3zUMbGIRvyxwjpIms-/view?usp=sharing)
 
 ## 程式特色
