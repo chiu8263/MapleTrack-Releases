@@ -5,13 +5,30 @@ MapleTrack 是專為 **MapleStory Worlds／Artale** 設計的練功效率追蹤�
 
 ## 下載最新版
 
-### MapleTrack v2.2.0
+### MapleTrack v2.2.1
+- [下載 Windows 版本](https://drive.google.com/file/d/1nPTQVv6VUZlyAD3mWtROAz0NtkKLyn4y/view?usp=sharing)
+- [下載 macOS 版本](https://drive.google.com/file/d/1S_V6_bQ2Lp92uo_zM7YX3hvQqyvi0Pyq/view?usp=sharing)
+
+### v2.2.1 更新項目
+
+- **Windows 10 擷取相容性**：缺少無邊框擷取元件時，改用一般視窗擷取。
+- **版本檢查**：改從 GitHub 讀取最新版本，修正更新後仍顯示舊版本的問題。
+- **簡易視窗圖釘**：簡易數值與簡易圖表可各自固定上方工具列，重新開啟後會保留設定。
+- **工具列外觀**：固定時維持視窗圓角並沿用視窗底色與透明度；未固定時，滑出的工具列使用不透明白底，方便閱讀。
+
+> Windows 支援 Windows 10／11 x64。  
+> macOS 支援 macOS 14 以上的 Apple Silicon（M 系列）Mac。
+
+<details>
+<summary>下載舊版 v2.2.0</summary>
 
 - [下載 Windows 版本](https://drive.google.com/file/d/14cyLdNJsY-G8MJ8XUubDLPt_tvh3tEUg/view?usp=sharing)
 - [下載 macOS 版本](https://drive.google.com/file/d/1LtI34X549Xenpbi1IDkS06SHrv3VC6ra/view?usp=share_link)
 
 > Windows 支援 Windows 10／11 x64。  
 > macOS 支援 macOS 14 以上的 Apple Silicon（M 系列）Mac。
+
+</details>
 
 <details>
 <summary>下載舊版 v2.1.0</summary>
