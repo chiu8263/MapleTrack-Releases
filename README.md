@@ -7,8 +7,8 @@ MapleTrack 是專為 **MapleStory Worlds／Artale** 設計的練功效率追蹤�
 
 ### MapleTrack v2.2.1
 
-- [下載 Windows 版本](https://drive.google.com/file/d/1nPTQVv6VUZlyAD3mWtROAz0NtkKLyn4y/view?usp=sharing)
-- [下載 macOS 版本](https://drive.google.com/file/d/1S_V6_bQ2Lp92uo_zM7YX3hvQqyvi0Pyq/view?usp=sharing)
+- [下載 Windows 版本](https://mapletrack-download.chiu8263.workers.dev/windows)
+- [下載 macOS 版本](https://mapletrack-download.chiu8263.workers.dev/mac)
 
 ### v2.2.1 更新項目
 
