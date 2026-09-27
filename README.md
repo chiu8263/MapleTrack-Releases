@@ -5,10 +5,20 @@ MapleTrack 是專為 **MapleStory Worlds／Artale** 設計的練功效率追蹤�
 
 ## 下載最新版
 
-### MapleTrack v2.2.1
-
+### MapleTrack v2.3.0
 - [下載 Windows 版本](https://mapletrack-download.chiu8263.workers.dev/windows)
 - [下載 macOS 版本](https://mapletrack-download.chiu8263.workers.dev/mac)
+
+### v2.3.0 更新項目
+
+- **新增藥水用量與成本統計**：框選 HP／MP 藥水剩餘數量並設定單價，查看本次用量、成本、每 10 分鐘及每小時推估。
+- **F8 防誤觸**：改為長按 0.5 秒才結束儲存，結束時間與數值以按下 F8 的瞬間為準。
+
+<details>
+<summary>下載舊版 v2.2.1</summary>
+
+- [下載 Windows 版本](https://drive.google.com/file/d/1twKBnldyOLwf6siAgwksCii1pvA4EZl3/view?usp=sharing)
+- [下載 macOS 版本](https://drive.google.com/file/d/1Q8KwhIeG8yRd9J9ILHOPfP5FzWrTmd0A/view?usp=sharing)
 
 ### v2.2.1 更新項目
 
@@ -19,6 +29,8 @@ MapleTrack 是專為 **MapleStory Worlds／Artale** 設計的練功效率追蹤�
 
 > Windows 支援 Windows 10／11 x64。  
 > macOS 支援 macOS 14 以上的 Apple Silicon（M 系列）Mac。
+</details>
+
 
 <details>
 <summary>下載舊版 v2.2.0</summary>
@@ -27,6 +39,7 @@ MapleTrack 是專為 **MapleStory Worlds／Artale** 設計的練功效率追蹤�
 - [macOS 版本](https://drive.google.com/file/d/1LtI34X549Xenpbi1IDkS06SHrv3VC6ra/view?usp=share_link)
 
 </details>
+
 
 <details>
 <summary>下載舊版 v2.1.0</summary>
@@ -40,9 +53,8 @@ MapleTrack 是專為 **MapleStory Worlds／Artale** 設計的練功效率追蹤�
 
 ### 即時經驗效率
 
-顯示本次累計 EXP、近 1 分鐘與近 10 分鐘效率、整場平均、最高效率及每小時推估。
-
-<img src="https://github.com/user-attachments/assets/ebc3f8bc-95a0-4d98-8b05-f7030c335403" alt="即時經驗效率數值" width="574">
+顯示本次累計 EXP、近 1 分鐘與近 10 分鐘效率、整場平均、最高效率及每小時推估，以及HP/MP藥水使用量計算。
+<img src="https://github.com/user-attachments/assets/f9a68b2a-f8c2-4be0-a66f-976c3d1c0d7d" alt="即時經驗效率數值" width="574">
 
 ### 升級進度預估
 
@@ -70,7 +82,7 @@ MapleTrack 是專為 **MapleStory Worlds／Artale** 設計的練功效率追蹤�
 
 ### 簡易數值與圖表視窗
 
-視窗可置頂、拖曳及調整大小，並能分別設定字級、顏色、透明度與顯示項目。
+視窗可置頂、拖曳及調整大小，並能分別設定字級、顏色、透明度與顯示項目；簡易數值的顯示項目可用滑鼠拖曳排序。
 
 <img src="https://github.com/user-attachments/assets/d816bebd-3e43-4873-ab6f-75aa1ccfa7b0" alt="簡易視窗設定" width="760">
 
@@ -78,13 +90,18 @@ MapleTrack 是專為 **MapleStory Worlds／Artale** 設計的練功效率追蹤�
 
 儲存遊戲視窗的大小、螢幕位置、EXP／楓幣辨識框，以及簡易視窗位置。
 
-<img src="https://github.com/user-attachments/assets/26f87a19-72e4-4ccf-bf36-651aefd8e229" alt="辨識設定群組" width="420">
+<img src="https://github.com/user-attachments/assets/8f1a3436-168a-4ae9-bbbb-487f1f299ddf" alt="辨識設定群組" width="420">
 
 ### 練功紀錄
 
 保存開始與結束時間、角色、等級、累計 EXP 及整場效率，支援重新命名、排序、修改與多選刪除。
 
 <img src="https://github.com/user-attachments/assets/fa336ac5-5401-48b4-b7df-b65d1341e4a7" alt="練功紀錄列表" width="760">
+
+- **藥水用量與成本**
+  辨識 HP／MP 藥水剩餘數量，依設定單價計算本次用量與成本，並提供每 10 分鐘及每小時推估。
+
+<img src="https://github.com/user-attachments/assets/c064a06f-0359-4d5b-8b29-c22708abd786" alt="藥水用量與成本" width="760">
 
 ## 首次使用
 
