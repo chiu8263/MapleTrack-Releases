@@ -5,49 +5,40 @@ MapleTrack 是專為 **MapleStory Worlds／Artale** 設計的練功效率追蹤�
 
 ## 下載最新版
 
-### MapleTrack v2.3.0
+### MapleTrack v2.4.0
 - [下載 Windows 版本](https://mapletrack-download.chiu8263.workers.dev/windows)
 - [下載 macOS 版本](https://mapletrack-download.chiu8263.workers.dev/mac)
 
-### v2.3.0 更新項目
+<details>
+<summary>下載舊版 v2.3.0</summary>
+
+- [下載 Windows 版本](https://drive.google.com/file/d/1nPTQVv6VUZlyAD3mWtROAz0NtkKLyn4y/view?usp=sharing)
+- [下載 macOS 版本](https://drive.google.com/file/d/1S_V6_bQ2Lp92uo_zM7YX3hvQqyvi0Pyq/view?usp=sharing)
+
+</details>
+
+### v2.4.0 更新內容-2026/9/30
+- 新增智慧練功模式：EXP 增加時自動開始，閒置後自動暫停，支援 F12 切換。
+- 新增練功成果分享，可選擇分享項目並記住設定。
+- 優化 EXP、楓幣與 HP／MP 辨識，加入漏位與異常跳值防護。
+- 完善藥水成本、楓幣收入與淨收益統計，支援 10 分鐘及每小時推估。
+- 優化簡易視窗效能，每秒更新數據，圖表上下限每 30 秒重算。
+- 強化測試模式，記錄硬體佔用、辨識失敗率及失敗影像。
+
+### v2.3.0 更新項目-2026/9/27
 
 - **新增藥水用量與成本統計**：框選 HP／MP 藥水剩餘數量並設定單價，查看本次用量、成本、每 10 分鐘及每小時推估。
 - **F8 防誤觸**：改為長按 0.5 秒才結束儲存，結束時間與數值以按下 F8 的瞬間為準。
 
-<details>
-<summary>下載舊版 v2.2.1</summary>
-
-- [下載 Windows 版本](https://drive.google.com/file/d/1twKBnldyOLwf6siAgwksCii1pvA4EZl3/view?usp=sharing)
-- [下載 macOS 版本](https://drive.google.com/file/d/1Q8KwhIeG8yRd9J9ILHOPfP5FzWrTmd0A/view?usp=sharing)
-
-### v2.2.1 更新項目
+### v2.2.1 更新項目-2026/9/23
 
 - **Windows 10 擷取相容性**：缺少無邊框擷取元件時，改用一般視窗擷取。
 - **版本檢查**：改從 GitHub 讀取最新版本，修正更新後仍顯示舊版本的問題。
 - **簡易視窗圖釘**：簡易數值與簡易圖表可各自固定上方工具列，重新開啟後會保留設定。
 - **工具列外觀**：固定時維持視窗圓角並沿用視窗底色與透明度；未固定時，滑出的工具列使用不透明白底，方便閱讀。
 
-> Windows 支援 Windows 10／11 x64。  
-> macOS 支援 macOS 14 以上的 Apple Silicon（M 系列）Mac。
-</details>
 
 
-<details>
-<summary>下載舊版 v2.2.0</summary>
-
-- [Windows 版本](https://drive.google.com/file/d/14cyLdNJsY-G8MJ8XUubDLPt_tvh3tEUg/view?usp=sharing)
-- [macOS 版本](https://drive.google.com/file/d/1LtI34X549Xenpbi1IDkS06SHrv3VC6ra/view?usp=share_link)
-
-</details>
-
-
-<details>
-<summary>下載舊版 v2.1.0</summary>
-
-- [Windows 版本](https://drive.google.com/file/d/1Q0KGCewqcO8O1p-HlGTrrtoGsZzcKB8T/view?usp=share_link)
-- [macOS 版本](https://drive.google.com/file/d/1pjyiyBD_k3SyRK3zUMbGIRvyxwjpIms-/view?usp=share_link)
-
-</details>
 
 ## 程式特色
 
