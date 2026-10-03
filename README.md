@@ -5,17 +5,15 @@ MapleTrack 是專為 **MapleStory Worlds／Artale** 設計的練功效率追蹤�
 
 ## 下載最新版
 
-### MapleTrack v2.4.0
+### MapleTrack v2.4.1
 - [下載 Windows 版本](https://mapletrack-download.chiu8263.workers.dev/windows)
 - [下載 macOS 版本](https://mapletrack-download.chiu8263.workers.dev/mac)
 
-<details>
-<summary>下載舊版 v2.3.0</summary>
 
-- [下載 Windows 版本](https://drive.google.com/file/d/1nPTQVv6VUZlyAD3mWtROAz0NtkKLyn4y/view?usp=sharing)
-- [下載 macOS 版本](https://drive.google.com/file/d/1S_V6_bQ2Lp92uo_zM7YX3hvQqyvi0Pyq/view?usp=sharing)
+### v2.4.1 更新項目-2026/10/3
+- 介面排版優化：調整狀態總覽的資訊層級與間距，讓重要數據更容易掃讀。
+- 效能優化：重用遊戲視窗擷取設定，避免每輪重新查詢完整視窗清單，降低監控對遊戲流暢度的影響。
 
-</details>
 
 ### v2.4.0 更新內容-2026/9/30
 - 新增智慧練功模式：EXP 增加時自動開始，閒置後自動暫停，支援 F12 切換。
